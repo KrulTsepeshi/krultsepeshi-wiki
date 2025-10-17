@@ -1,3 +1,5 @@
-TITLE:Vampires! Mod
+TITLE: Vampires
 CONTENT:
-# Vampires
+# Welcome to the Vampires Wiki
+
+This is the main page.
