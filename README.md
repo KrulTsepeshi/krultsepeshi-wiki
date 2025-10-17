@@ -3,15 +3,21 @@ Contribute to the wiki page
 
 To contribute, create a Pull Request. Each pull request will be reviewed before being accepted.
 
-Functionality
-Each top level folder is a main category, inside main categories are folders that are considered as regular categories.
+- **Main categories** = top-level folders.
+- **Categories** = subfolders inside main categories.
+- **Pages** = Markdown files inside categories.
 
-To add new pages to the categories, create a .md file under it.
+## Page Format
 
-Markdown file structure:
+Each page should start with a `TITLE:` line and a `CONTENT:` marker:
 
-```
-TITLE: Page title here
+```markdown
+TITLE:Example title
 CONTENT:
-Markdown page content here
+# Example header
+- Example item
 ```
+
+The TITLE: is used for the browser tab title.
+
+Everything after CONTENT: is rendered as the wiki page.
