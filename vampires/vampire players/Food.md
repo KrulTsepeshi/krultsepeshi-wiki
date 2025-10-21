@@ -24,3 +24,7 @@ CONTENT:
 - Parrot
 - Donkey
 - Dolphin
+
+**Exceptions**
+- Player entity:
+  You can not drink from a player entity if they are a vampire or they have something in their chestplate and helmet slots.
