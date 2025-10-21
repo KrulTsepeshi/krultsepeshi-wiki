@@ -1,5 +1,5 @@
 TITLE: Vampire food
-CONTENT
+CONTENT:
 # List of consumable things
 
 **Items**
