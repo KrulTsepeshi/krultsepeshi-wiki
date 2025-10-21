@@ -3,7 +3,11 @@ CONTENT
 # List of consumable things
 
 **Items**
-- Golden carrots
+- Golden apples
+- Bottle of blood
+- Vampire blood
+- Vampire Lord blood
+- Holy water
 
 
 **Entity blood**
