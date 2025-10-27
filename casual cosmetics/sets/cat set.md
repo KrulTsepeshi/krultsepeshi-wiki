@@ -1,5 +1,5 @@
 TITLE: Cat Set
-CoNTENT:
+CONTENT:
 # Cat Set
 
 The cat set consists of 2 items
